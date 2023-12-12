@@ -8,6 +8,6 @@
 ### About me
 I'm a {backend, frontend and mobile} quality engineer developer with over ten years of experience working to ensure the highest quality outcomes possible. Adept in providing suggestions and solutions to improve and enhance productivity. Developed software requirements and test matrixes, modifying software test scope documents used throughout the entire Testing Lifecycle process. Responsible for hiring Team members and Mentoring QA Engineer team members.
 
-- Successfully developed and executed test plans, procedures, use cases and automated test scripts, and provided in-depth analysis to create and rollout new software.
+- Successfully developed and executed test plans and procedures, use cases and automated test scripts, and provided in-depth analysis to create and rollout new software.
 - Improved product usability by creating feature enhancement requests, as well as performing systems analysis on existing products where documentation was lacking.
 - Facilitated Change Control Board meetings, team staﬀ and technical meetings as a key thought leader within the organization.
